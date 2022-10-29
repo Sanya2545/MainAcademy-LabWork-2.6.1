@@ -1,0 +1,12 @@
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\1\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\1\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\1\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\1\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.csprojResolveAssemblyReference.cache
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\1\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\1\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.pdb

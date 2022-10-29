@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:33033/">
+    <file relUrl="bin/MyWCFsolution.dll.config" publishTime="11/01/2015 20:15:17" />
+    <file relUrl="MyWCFsolution.Service1.svc" publishTime="11/03/2015 10:23:06" />
+    <file relUrl="bin/MyWCFsolution.pdb" publishTime="11/03/2015 10:22:44" />
+    <file relUrl="bin/MyWCFsolution.dll" publishTime="11/03/2015 10:22:44" />
+    <file relUrl="Web.config" publishTime="11/01/2015 20:15:17" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost:31118/">
+    <file relUrl="bin/MyWCFsolution.dll.config" publishTime="11/01/2015 20:15:17" />
+    <file relUrl="MyWCFsolution.Service1.svc" publishTime="11/03/2015 10:22:39" />
+    <file relUrl="bin/MyWCFsolution.pdb" publishTime="11/03/2015 10:22:15" />
+    <file relUrl="bin/MyWCFsolution.dll" publishTime="11/03/2015 10:22:15" />
+    <file relUrl="Web.config" publishTime="11/01/2015 20:15:17" />
+  </publishTarget>
+</publishData>

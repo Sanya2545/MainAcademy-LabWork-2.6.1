@@ -1,0 +1,30 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\upgrade\end\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\upgrade\end\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\upgrade\end\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\upgrade\end\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\obj\Debug\CSharp_Net_module3_2_1_lab_service.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\upgrade\end\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\upgrade\end\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\3_2_3\CSharp_Net_module3_2_1_lab_service\MyWCFsolution\obj\Debug\CSharp_Net_module3_2_1_lab_service.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceEnd\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceEnd\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceEnd\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceEnd\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceEnd\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\CSharp_Net_module3_2_1_lab_service.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\CSharp_Net_module3_2_1_lab_service.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\CSharp_Net_module3_2_1_lab_service.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_6\LabWork#6.1\(begin)CSharp_Net_module6_1_lab_serviceBegin\CSharp_Net_module3_2_1_lab_serviceBegin\MyWCFsolution\obj\Debug\MyWCFsolution.pdb

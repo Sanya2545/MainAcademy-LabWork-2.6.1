@@ -1,0 +1,6 @@
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\CSharp_Net-module3_2_1–lab-end\CSharp_Net-module3_2_1–lab-service\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\CSharp_Net-module3_2_1–lab-end\CSharp_Net-module3_2_1–lab-service\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\CSharp_Net-module3_2_1–lab-end\CSharp_Net-module3_2_1–lab-service\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\CSharp_Net-module3_2_1–lab-end\CSharp_Net-module3_2_1–lab-service\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\CSharp_Net-module3_2_1–lab-end\CSharp_Net-module3_2_1–lab-service\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+C:\Users\svf\OneDrive\Work\Lesha\Brain Academy\Done\Module 3_2\Labs\3_2_1\CSharp_Net-module3_2_1–lab-end\CSharp_Net-module3_2_1–lab-service\MyWCFsolution\obj\Debug\CSharp_Net-module3_2_1–lab-service.csprojResolveAssemblyReference.cache
